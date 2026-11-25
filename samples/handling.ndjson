@@ -1,0 +1,4 @@
+{"action":"p1","basket":"b1","shop":"s-lake","kind":"pick","sku":"tissue-u","quantity":1,"occurred_at":"2026-11-25T17:03:00+08:00"}
+{"action":"p1","basket":"b1","shop":"s-lake","kind":"pick","sku":"tissue-u","quantity":1,"occurred_at":"2026-11-25T17:03:00+08:00"}
+{"action":"r1","basket":"b1","shop":"s-lake","kind":"return","sku":"tissue-u","quantity":1,"occurred_at":"2026-11-25T17:12:00+08:00"}
+{"action":"m1","basket":"b2","shop":"s-lake","kind":"miss","sku":"tissue-u","quantity":1,"occurred_at":"2026-11-25T17:09:00+08:00"}

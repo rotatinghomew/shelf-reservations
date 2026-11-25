@@ -1,0 +1,4 @@
+{"basket":"b1","customer":"c1","items":[["tissue-u",2,true],["soap-u",1,false]]}
+{"basket":"b2","customer":"c2","items":[["tissue-u",2,true]]}
+{"basket":"b3","customer":"c3","items":[["tissue-v",2,false]]}
+{"basket":"b4","customer":"c4","items":[["tissue-u",3,true]]}
